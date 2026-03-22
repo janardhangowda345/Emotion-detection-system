@@ -1,0 +1,9 @@
+{
+  "emotion_counts": {
+    "Happy": 3,
+    "Sad": 5
+  },
+  "avg_video_confidence": 0.15390583500266075,
+  "avg_audio_confidence": 1.0,
+  "total_predictions": 4
+}
